@@ -73,7 +73,6 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 98, 4, 'O pôr do sol é mesmo algo especial... ❤', '2024-11-22 18:10:42',4),
 (NULL, 50, 1, 'Paciência é difícil, mas vale muito a pena. Obrigado pela reflexão. 🙏', '2024-11-22 10:45:33',5),
 (NULL, 42, 0, 'Nada como começar o dia motivado! 🚀', '2024-11-21 09:15:58',6);
-
 INSERT INTO COMENTARIO VALUES
 (NULL, 88, 3, 'Eu também sinto que 2024 tá voando... Já estamos quase no fim do ano! 😲', '2024-11-20 22:30:19',7),
 (NULL, 67, 2, 'Seu cachorro parece ser tão engraçado! 😂🐾', '2024-11-19 07:50:01',8),
@@ -81,3 +80,10 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 72, 3, 'Quem não ama um feriado prolongado, né? 🛌🌴', '2024-11-17 13:45:37',10),
 (NULL, 110, 8, 'Essa mensagem veio na hora certa. Obrigado pela motivação. 💪', '2024-11-16 09:25:12',11),
 (NULL, 55, 1, 'Atualizar currículo é sempre um passo importante. Boa sorte nas entrevistas! 🚀', '2024-11-15 12:10:33',12);
+INSERT INTO COMENTARIO VALUES
+(NULL, 44, 0, 'Também tô morrendo de saudades das férias! 😭', '2024-11-14 16:20:18',13),
+(NULL, 72, 2, 'Leitura é tudo de bom. O último que li foi “O Homem de Giz”, super recomendo! 📚', '2024-11-13 08:55:49',14),
+(NULL, 66, 4, 'Wi-Fi falhando é a definição de frustração. 😅', '2024-11-12 20:50:11',15),
+(NULL, 50, 2, 'Café sempre! Chá só quando tá frio... 😂☕', '2024-11-12 14:40:52',16),
+(NULL, 91, 6, 'Qual série foi? Quero dicas! 😱📺', '2024-11-11 18:30:45',17),
+(NULL, 33, 0, 'Adorei a frase “começar algo novo”. Inspiração para o dia! ✨', '2024-11-10 21:20:33',18);

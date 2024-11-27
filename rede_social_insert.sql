@@ -74,3 +74,10 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 50, 1, 'Paciência é difícil, mas vale muito a pena. Obrigado pela reflexão. 🙏', '2024-11-22 10:45:33',5),
 (NULL, 42, 0, 'Nada como começar o dia motivado! 🚀', '2024-11-21 09:15:58',6);
 
+INSERT INTO COMENTARIO VALUES
+(NULL, 88, 3, 'Eu também sinto que 2024 tá voando... Já estamos quase no fim do ano! 😲', '2024-11-20 22:30:19',7),
+(NULL, 67, 2, 'Seu cachorro parece ser tão engraçado! 😂🐾', '2024-11-19 07:50:01',8),
+(NULL, 90, 5, 'Primeiro bolo e já acertou? Parabéns! 👏🎂', '2024-11-18 16:10:11',9),
+(NULL, 72, 3, 'Quem não ama um feriado prolongado, né? 🛌🌴', '2024-11-17 13:45:37',10),
+(NULL, 110, 8, 'Essa mensagem veio na hora certa. Obrigado pela motivação. 💪', '2024-11-16 09:25:12',11),
+(NULL, 55, 1, 'Atualizar currículo é sempre um passo importante. Boa sorte nas entrevistas! 🚀', '2024-11-15 12:10:33',12);

@@ -125,3 +125,8 @@ INSERT INTO GRUPO VALUES
 (NULL, 'Mundo dos Livros 📚✨', 'Aqui é o lugar para os apaixonados por leitura! Compartilhe suas resenhas, dicas de livros, e participe das discussões sobre suas obras literárias favoritas.', '2024-11-26'),
 (NULL, 'Pets & Companhia 🐾', 'Para todos os donos de pets e amantes de animais! Compartilhe fotos fofas, dicas de cuidados, histórias engraçadas e tudo sobre o mundo dos bichinhos.', '2024-11-26'),
 (NULL, 'Dicas de Culinária 🍳🍰', 'Se você ama cozinhar, esse grupo é para você! Compartilhe suas receitas favoritas, dicas de cozinha e inspire outros a se aventurarem na arte de preparar deliciosos pratos.', '2024-11-26');
+
+INSERT INTO USUARIO_GRUPO VALUES
+(7, 9),(2, 9),(3, 9),(4, 1),(10, 3),
+(3, 6),(2, 4),(8, 7),(6, 6),(7, 4),
+(8, 2),(10, 4),(8, 6),(9, 2),(2, 3);

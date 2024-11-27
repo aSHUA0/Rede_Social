@@ -256,3 +256,16 @@ INSERT INTO CONVERSA VALUES
 (NULL, 'Que tipo de programa você está pensando?', '2024-11-26 09:17:00', 'Visto', 2, 2),
 (NULL, 'Talvez eu vá ao cinema ou a um evento de música.', '2024-11-26 09:20:00', 'Visto', 2, 2),
 (NULL, 'Legal, espero que aproveite bastante!', '2024-11-26 09:22:00', 'Não Visto', 2, 2);
+
+INSERT INTO CONVERSA VALUES
+(NULL, 'Oi, tudo bem?', '2024-11-26 10:00:00', 'Visto', 3, 3),
+(NULL, 'Oi, tudo ótimo e você?', '2024-11-26 10:02:00', 'Visto', 3, 3),
+(NULL, 'Tudo certo! Estava pensando em você.', '2024-11-26 10:05:00', 'Visto', 3, 3),
+(NULL, 'Sério? Que bom! O que aconteceu?', '2024-11-26 10:07:00', 'Visto', 3, 3),
+(NULL, 'Nada demais, só queria saber como você estava.', '2024-11-26 10:10:00', 'Visto', 3, 3),
+(NULL, 'Ah, entendi! Estou bem, só trabalhando.', '2024-11-26 10:12:00', 'Visto', 3, 3),
+(NULL, 'Trabalhar não é fácil, né?', '2024-11-26 10:15:00', 'Visto', 3, 3),
+(NULL, 'Pois é, mas é necessário. E você, o que tem feito?', '2024-11-26 10:17:00', 'Visto', 3, 3),
+(NULL, 'Eu também estou trabalhando, mas com uma pausa agora!', '2024-11-26 10:20:00', 'Visto', 3, 3),
+(NULL, 'Aproveite a pausa então! Depois a gente conversa mais.', '2024-11-26 10:22:00', 'Não Visto', 3, 3);
+

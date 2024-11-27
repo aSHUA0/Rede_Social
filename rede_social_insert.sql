@@ -101,3 +101,15 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 60, 3, 'Concordo, um elogio sincero pode mudar o dia de alguém. 💬❤️', '2024-11-01 19:25:33',28),
 (NULL, 48, 2, 'Nada melhor do que encontrar um velho amigo. 🤝', '2024-10-31 20:35:14',29),
 (NULL, 115, 10, 'Seja a mudança que você quer ver no mundo. 🌍✨', '2024-10-30 16:45:10',30);
+
+INSERT INTO NOTIFICACAO VALUES
+(NULL, 'Você recebeu um curtida na sua postagem', '2024-11-25 08:30:12',1),
+(NULL, 'Você recebeu um deslike na sua postagem', '2024-11-24 14:45:21',2),
+(NULL, 'Alguém comentou na sua postagem', '2024-11-23 20:50:37',3),
+(NULL, 'Você tem uma nova mensagem', '2024-11-22 18:10:42',4),
+(NULL, 'Você recebeu um curtida na sua postagem', '2024-11-21 10:15:30',5),
+(NULL, 'Você recebeu um deslike na sua postagem', '2024-11-20 18:05:42',6),
+(NULL, 'Alguém comentou na sua postagem', '2024-11-19 14:23:11',7),
+(NULL, 'Você tem uma nova mensagem de Maria', '2024-11-18 20:45:56',8),
+(NULL, 'Você recebeu um curtida na sua postagem', '2024-11-17 09:30:25',9),
+(NULL, 'Você recebeu um deslike na sua postagem', '2024-11-16 16:52:10',10);

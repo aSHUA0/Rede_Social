@@ -66,3 +66,11 @@ INSERT INTO POSTAGEM VALUES
 (NULL, 810, 20, 'Mais um dia, mais um aprendizado. Gratidão! 🙌', '2024-10-16 14:50:38', 10),
 (NULL, 920, 18, 'Sonhar é grátis, mas realizar custa dedicação. 💫', '2024-10-15 18:35:44', 10);
 
+INSERT INTO COMENTARIO VALUES
+(NULL, 45, 3, 'Adorei essa energia! É isso aí, bora começar a semana com tudo! 💪✨', '2024-11-25 08:30:12',1),
+(NULL, 60, 2, 'Sorrisos realmente são mágicos. Obrigado por lembrar disso! 😄', '2024-11-24 14:45:21',2),
+(NULL, 120, 5, 'Esse jogo foi emocionante mesmo! Mal posso esperar pela próxima partida. ⚽🔥', '2024-11-23 20:50:37',3),
+(NULL, 98, 4, 'O pôr do sol é mesmo algo especial... ❤', '2024-11-22 18:10:42',4),
+(NULL, 50, 1, 'Paciência é difícil, mas vale muito a pena. Obrigado pela reflexão. 🙏', '2024-11-22 10:45:33',5),
+(NULL, 42, 0, 'Nada como começar o dia motivado! 🚀', '2024-11-21 09:15:58',6);
+

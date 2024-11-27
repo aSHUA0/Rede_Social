@@ -165,3 +165,18 @@ INSERT INTO MEMBRO VALUES
 (NULL, 'Larissa Silva', '2024-04-16', 'membro', 5),
 (NULL, 'João Vitor', '2024-05-25', 'membro', 5),
 (NULL, 'Alice Costa', '2024-06-19', 'administrador', 5);
+
+INSERT INTO MEMBRO VALUES
+(NULL, 'Gustavo Martins', '2024-07-21', 'membro', 6),
+(NULL, 'Mariana Oliveira', '2024-08-28', 'membro', 6),
+(NULL, 'Rodrigo Alves', '2024-09-09', 'membro', 6),
+(NULL, 'Aline Souza', '2024-10-26', 'membro', 6),
+(NULL, 'Daniel Santos', '2024-11-06', 'administrador', 6);
+
+INSERT INTO MEMBRO VALUES
+(NULL, 'João Pedro Costa', '2024-12-29', 'membro', 7),
+(NULL, 'Carolina Alves', '2024-01-29', 'membro', 7),
+(NULL, 'Felipe Lima', '2024-02-01', 'membro', 7),
+(NULL, 'Renata Freitas', '2024-03-03', 'membro', 7),
+(NULL, 'Hugo Pereira', '2024-04-11', 'administrador', 7);
+

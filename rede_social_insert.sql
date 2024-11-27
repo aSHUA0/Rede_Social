@@ -138,3 +138,11 @@ INSERT INTO MEMBRO VALUES
 (NULL, 'Pedro Almeida', '2024-10-10', 'membro', 1),
 (NULL, 'Beatriz Santos', '2024-10-10', 'administrador', 1);
 
+INSERT INTO MEMBRO VALUES
+(NULL, 'Gabriel Costa', '2024-11-11', 'membro', 2),
+(NULL, 'Juliana Fernandes', '2024-12-21', 'membro', 2),
+(NULL, 'Thiago Oliveira', '2024-01-26', 'membro', 2),
+(NULL, 'Marina Pires', '2024-02-16', 'membro', 2),
+(NULL, 'Felipe Rocha', '2024-03-21', 'administrador', 2);
+
+

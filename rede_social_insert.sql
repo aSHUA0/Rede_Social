@@ -94,3 +94,10 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 75, 3, 'Eu também amo observar o céu estrelado, é mágico. 🌌', '2024-11-07 18:40:25',22),
 (NULL, 42, 0, 'Treino concluído! Estamos juntos nessa jornada fitness! 🏋️‍♂️', '2024-11-06 11:10:33',23),
 (NULL, 56, 1, 'Minha música favorita no momento é “Blinding Lights”. E a sua? 🎧', '2024-11-05 22:30:12',24);
+INSERT INTO COMENTARIO VALUES
+(NULL, 81, 5, 'Nada mais satisfatório que riscar tudo da lista de tarefas. ✅✨', '2024-11-04 10:30:50',25),
+(NULL, 67, 3, 'Adorei essa frase: “Um passo de cada vez.” Preciso lembrar disso! 👣', '2024-11-03 09:55:14',26),
+(NULL, 53, 2, 'A sobremesa de ontem também deixou saudades aqui. 😂🍨', '2024-11-02 17:40:10',27),
+(NULL, 60, 3, 'Concordo, um elogio sincero pode mudar o dia de alguém. 💬❤️', '2024-11-01 19:25:33',28),
+(NULL, 48, 2, 'Nada melhor do que encontrar um velho amigo. 🤝', '2024-10-31 20:35:14',29),
+(NULL, 115, 10, 'Seja a mudança que você quer ver no mundo. 🌍✨', '2024-10-30 16:45:10',30);

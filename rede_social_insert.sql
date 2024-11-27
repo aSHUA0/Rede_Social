@@ -1,8 +1,11 @@
+USE REDE_SOCIAL
+
 INSERT INTO USUARIO VALUES 
 (NULL, 'João Silva', 'joao.silva@example.com', NULL, '1990-05-14'),
 (NULL, 'Maria Oliveira', 'maria.oliveira@example.com', NULL, '1988-11-22'),
 (NULL, 'Carlos Santos', 'carlos.santos@example.com', NULL, '1995-03-07'),
 (NULL, 'Ana Costa', 'ana.costa@example.com', NULL, '2000-09-18');
+
 INSERT INTO USUARIO VALUES
 (NULL, 'Lucas Almeida', 'lucas.almeida@example.com', NULL, '1992-07-30'),
 (NULL, 'Fernanda Rodrigues', 'fernanda.rodrigues@example.com', NULL, '1998-12-10'),
@@ -32,6 +35,7 @@ INSERT INTO POSTAGEM VALUES
 (NULL, 780, 20, 'Café ou chá? A discussão eterna. ☕🍵', '2024-11-11 18:10:33', 4),
 (NULL, 850, 18, 'O final dessa série me deixou sem palavras. Quem já viu? 😱', '2024-11-10 21:05:47', 4),
 (NULL, 620, 10, 'Hoje é um bom dia para começar algo novo. ✨', '2024-11-10 09:35:55', 4);
+
 INSERT INTO POSTAGEM VALUES
 (NULL, 340, 12, 'Estava com saudade da chuva... até ela cair. Agora quero sol. ☀☔', '2024-11-09 13:45:21', 5),
 (NULL, 1300, 42, 'Nada como uma boa música para melhorar o dia. 🎶', '2024-11-09 16:18:44', 5),
@@ -43,6 +47,7 @@ INSERT INTO POSTAGEM VALUES
 (NULL, 630, 12, 'Dia de academia concluído! Sentindo orgulho de mim mesmo. 🏋‍♂', '2024-11-04 10:15:11', 6),
 (NULL, 700, 18, 'Compartilhe sua música favorita comigo. 🎧', '2024-11-04 15:32:48', 6),
 (NULL, 960, 25, 'Aquela sensação de cumprir todas as tarefas do dia. ✅', '2024-11-03 09:40:55', 6);
+
 INSERT INTO POSTAGEM VALUES
 (NULL, 890, 20, 'Um passo de cada vez, mas nunca pare de andar. 👣', '2024-11-02 17:25:30', 7),
 (NULL, 490, 10, 'Ainda estou sonhando com a sobremesa de ontem. 🍨', '2024-11-01 19:14:28', 7),
@@ -54,6 +59,7 @@ INSERT INTO POSTAGEM VALUES
 (NULL, 670, 12, 'Aquele sentimento de conquista depois de terminar um projeto. 🏆', '2024-10-27 14:50:45', 8),
 (NULL, 520, 9, 'Me recomendem séries para maratonar no fim de semana! 🎥', '2024-10-26 19:33:55', 8),
 (NULL, 600, 14, 'Você também está ansioso para o próximo capítulo da sua vida? 📖✨', '2024-10-25 12:25:40', 8);
+
 INSERT INTO POSTAGEM VALUES
 (NULL, 450, 10, 'Às vezes, tudo o que você precisa é de um tempo offline. 🌳📵', '2024-10-24 17:14:55', 9),
 (NULL, 1400, 50, 'Descobri que a felicidade está nas pequenas coisas. 🌻', '2024-10-23 20:35:10', 9),
@@ -73,6 +79,7 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 98, 4, 'O pôr do sol é mesmo algo especial... ❤', '2024-11-22 18:10:42',4),
 (NULL, 50, 1, 'Paciência é difícil, mas vale muito a pena. Obrigado pela reflexão. 🙏', '2024-11-22 10:45:33',5),
 (NULL, 42, 0, 'Nada como começar o dia motivado! 🚀', '2024-11-21 09:15:58',6);
+
 INSERT INTO COMENTARIO VALUES
 (NULL, 88, 3, 'Eu também sinto que 2024 tá voando... Já estamos quase no fim do ano! 😲', '2024-11-20 22:30:19',7),
 (NULL, 67, 2, 'Seu cachorro parece ser tão engraçado! 😂🐾', '2024-11-19 07:50:01',8),
@@ -80,6 +87,7 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 72, 3, 'Quem não ama um feriado prolongado, né? 🛌🌴', '2024-11-17 13:45:37',10),
 (NULL, 110, 8, 'Essa mensagem veio na hora certa. Obrigado pela motivação. 💪', '2024-11-16 09:25:12',11),
 (NULL, 55, 1, 'Atualizar currículo é sempre um passo importante. Boa sorte nas entrevistas! 🚀', '2024-11-15 12:10:33',12);
+
 INSERT INTO COMENTARIO VALUES
 (NULL, 44, 0, 'Também tô morrendo de saudades das férias! 😭', '2024-11-14 16:20:18',13),
 (NULL, 72, 2, 'Leitura é tudo de bom. O último que li foi “O Homem de Giz”, super recomendo! 📚', '2024-11-13 08:55:49',14),
@@ -87,6 +95,7 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 50, 2, 'Café sempre! Chá só quando tá frio... 😂☕', '2024-11-12 14:40:52',16),
 (NULL, 91, 6, 'Qual série foi? Quero dicas! 😱📺', '2024-11-11 18:30:45',17),
 (NULL, 33, 0, 'Adorei a frase “começar algo novo”. Inspiração para o dia! ✨', '2024-11-10 21:20:33',18);
+
 INSERT INTO COMENTARIO VALUES
 (NULL, 40, 2, 'A chuva sempre tem esse efeito de nostalgia, né? ☔', '2024-11-10 10:05:21',19),
 (NULL, 89, 4, 'Ouvir música é o melhor remédio para qualquer coisa. 🎶', '2024-11-09 16:45:11',20),
@@ -94,6 +103,7 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 75, 3, 'Eu também amo observar o céu estrelado, é mágico. 🌌', '2024-11-07 18:40:25',22),
 (NULL, 42, 0, 'Treino concluído! Estamos juntos nessa jornada fitness! 🏋️‍♂️', '2024-11-06 11:10:33',23),
 (NULL, 56, 1, 'Minha música favorita no momento é “Blinding Lights”. E a sua? 🎧', '2024-11-05 22:30:12',24);
+
 INSERT INTO COMENTARIO VALUES
 (NULL, 81, 5, 'Nada mais satisfatório que riscar tudo da lista de tarefas. ✅✨', '2024-11-04 10:30:50',25),
 (NULL, 67, 3, 'Adorei essa frase: “Um passo de cada vez.” Preciso lembrar disso! 👣', '2024-11-03 09:55:14',26),
@@ -292,3 +302,80 @@ INSERT INTO CONVERSA VALUES
 (NULL, 'Com certeza! Vou aproveitar as férias para relaxar.', '2024-11-26 12:17:00', 'Visto', 5, 5),
 (NULL, 'Que ótimo! Depois me conta tudo!', '2024-11-26 12:20:00', 'Visto', 5, 5),
 (NULL, 'Pode deixar, vou adorar te contar!', '2024-11-26 12:22:00', 'Não Enviado', 5, 5);
+
+INSERT INTO CONVERSA VALUES
+(NULL, 'Oi, como está o dia?', '2024-11-26 13:00:00', 'Visto', 6, 6),
+(NULL, 'Oi, tudo bem! Está sendo um dia tranquilo, e o seu?', '2024-11-26 13:02:00', 'Visto', 6, 6),
+(NULL, 'O meu também está tranquilo, sem grandes novidades.', '2024-11-26 13:05:00', 'Visto', 6, 6),
+(NULL, 'Que bom! Às vezes é bom ter um dia mais calmo.', '2024-11-26 13:07:00', 'Visto', 6, 6),
+(NULL, 'Com certeza! O que tem feito?', '2024-11-26 13:10:00', 'Visto', 6, 6),
+(NULL, 'Estou só relaxando hoje. E você?', '2024-11-26 13:12:00', 'Visto', 6, 6),
+(NULL, 'Trabalhando um pouco, mas nada demais.', '2024-11-26 13:15:00', 'Visto', 6, 6),
+(NULL, 'Legal, assim o dia passa mais rápido!', '2024-11-26 13:17:00', 'Visto', 6, 6),
+(NULL, 'Com certeza! Já já chega o final de semana.', '2024-11-26 13:20:00', 'Visto', 6, 6),
+(NULL, 'Vai ser ótimo! Vamos aproveitar!', '2024-11-26 13:22:00', 'Visto', 6, 6);
+
+INSERT INTO CONVERSA VALUES
+(NULL, 'Oi, tem algum filme bom para assistir?', '2024-11-26 14:00:00', 'Visto', 7, 7),
+(NULL, 'Oi! Tem sim, assisti um ontem que gostei muito.', '2024-11-26 14:02:00', 'Visto', 7, 7),
+(NULL, 'Ah é? Qual filme?', '2024-11-26 14:05:00', 'Visto', 7, 7),
+(NULL, 'É um thriller chamado "O Mistério da Casa Sombria".', '2024-11-26 14:07:00', 'Visto', 7, 7),
+(NULL, 'Nossa, deve ser bom. Onde posso assistir?', '2024-11-26 14:10:00', 'Visto', 7, 7),
+(NULL, 'Está disponível na Netflix, você precisa assistir!', '2024-11-26 14:12:00', 'Visto', 7, 7),
+(NULL, 'Vou colocar na minha lista, obrigado pela dica!', '2024-11-26 14:15:00', 'Visto', 7, 7),
+(NULL, 'De nada! Depois me conta o que achou!', '2024-11-26 14:17:00', 'Visto', 7, 7),
+(NULL, 'Com certeza, vou te contar!', '2024-11-26 14:20:00', 'Visto', 7, 7),
+(NULL, 'Aproveite o filme! Depois a gente se fala.', '2024-11-26 14:22:00', 'Não Visto', 7, 7);
+
+INSERT INTO CONVERSA VALUES
+(NULL, 'Oi, como você tem passado?', '2024-11-26 15:00:00', 'Visto', 8, 8),
+(NULL, 'Oi, estou bem! E você?', '2024-11-26 15:02:00', 'Visto', 8, 8),
+(NULL, 'Tudo tranquilo, só com algumas coisas para resolver.', '2024-11-26 15:05:00', 'Visto', 8, 8),
+(NULL, 'Ah, entendi. O que você tem feito?', '2024-11-26 15:07:00', 'Visto', 8, 8),
+(NULL, 'Tenho organizado umas coisas por aqui, nada muito emocionante.', '2024-11-26 15:10:00', 'Visto', 8, 8),
+(NULL, 'Legal! Eu estou na mesma, tentando colocar as coisas em ordem.', '2024-11-26 15:12:00', 'Visto', 8, 8),
+(NULL, 'É sempre bom quando conseguimos dar conta de tudo, né?', '2024-11-26 15:15:00', 'Visto', 8, 8),
+(NULL, 'Sim! Agora estou tentando me organizar para o final de semana.', '2024-11-26 15:17:00', 'Visto', 8, 8),
+(NULL, 'Boa sorte! Eu também estou planejando algo relaxante.', '2024-11-26 15:20:00', 'Visto', 8, 8),
+(NULL, 'Espero que seja ótimo! Nos falamos depois.', '2024-11-26 15:22:00', 'Não Visto', 8, 8);
+
+INSERT INTO CONVERSA VALUES
+(NULL, 'Oi, você já começou a ler aquele livro?', '2024-11-26 16:00:00', 'Visto', 9, 9),
+(NULL, 'Oi, comecei sim! Estou achando muito interessante.', '2024-11-26 16:02:00', 'Visto', 9, 9),
+(NULL, 'Que bom! Eu ainda não comecei, mas estou na vontade.', '2024-11-26 16:05:00', 'Visto', 9, 9),
+(NULL, 'Eu te entendo, a leitura exige um tempo mesmo.', '2024-11-26 16:07:00', 'Visto', 9, 9),
+(NULL, 'Pois é, às vezes o tempo é curto, né?', '2024-11-26 16:10:00', 'Visto', 9, 9),
+(NULL, 'Exatamente. Mas vou tentar arranjar um tempo para ler.', '2024-11-26 16:12:00', 'Visto', 9, 9),
+(NULL, 'Isso aí! Quando começar, me conta o que achou.', '2024-11-26 16:15:00', 'Visto', 9, 9),
+(NULL, 'Pode deixar! Eu vou contar tudo!', '2024-11-26 16:17:00', 'Visto', 9, 9),
+(NULL, 'Combinado! Boa leitura!', '2024-11-26 16:20:00', 'Visto', 9, 9),
+(NULL, 'Obrigado! Falo com você depois.', '2024-11-26 16:22:00', 'Não Enviado', 9, 9);
+
+INSERT INTO CONVERSA VALUES
+(NULL, 'Oi, você tem alguma sugestão de música?', '2024-11-26 17:00:00', 'Visto', 10, 10),
+(NULL, 'Oi! Claro! Que tipo de música você gosta?', '2024-11-26 17:02:00', 'Visto', 10, 10),
+(NULL, 'Eu gosto de um pouco de tudo, mas algo mais tranquilo.', '2024-11-26 17:05:00', 'Visto', 10, 10),
+(NULL, 'Entendi. Eu recomendo algo de jazz ou música clássica.', '2024-11-26 17:07:00', 'Visto', 10, 10),
+(NULL, 'Legal! Vou tentar. Alguma banda ou artista específico?', '2024-11-26 17:10:00', 'Visto', 10, 10),
+(NULL, 'Para jazz, recomendo Miles Davis ou John Coltrane.', '2024-11-26 17:12:00', 'Visto', 10, 10),
+(NULL, 'Muito bom! Vou procurar por eles. E para música clássica?', '2024-11-26 17:15:00', 'Visto', 10, 10),
+(NULL, 'Talvez algo de Beethoven ou Chopin.', '2024-11-26 17:17:00', 'Visto', 10, 10),
+(NULL, 'Vou adorar ouvir! Depois me conta o que achou.', '2024-11-26 17:20:00', 'Visto', 10, 10),
+(NULL, 'Com certeza! Muito obrigado pelas dicas!', '2024-11-26 17:22:00', 'Enviado', 10, 10);
+
+INSERT INTO TAG VALUES
+(NULL, 'Tecnologia'),
+(NULL, 'Música'),
+(NULL, 'Esportes'),
+(NULL, 'Culinária'),
+(NULL, 'Cinema'),
+(NULL, 'Ciência'),
+(NULL, 'Games'),
+(NULL, 'Fitness'),
+(NULL, 'Programação');
+
+INSERT INTO USUARIO_TAG VALUES
+(1, 3),(4, 5),(7, 8),(2, 6),(10, 9),
+(5, 4),(3, 2),(8, 7),(6, 1),(9, 3),
+(2, 9),(6, 8),(7, 2),(4, 6),(10, 5),
+(8, 3),(3, 7),(5, 9),(1, 8),(9, 4);

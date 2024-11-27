@@ -280,3 +280,15 @@ INSERT INTO CONVERSA VALUES
 (NULL, 'Sim, temos que confiar no nosso time!', '2024-11-26 11:17:00', 'Visto', 4, 4),
 (NULL, 'Com certeza! Vamos ganhar!', '2024-11-26 11:20:00', 'Visto', 4, 4),
 (NULL, 'Isso mesmo! Rumo à vitória!', '2024-11-26 11:22:00', 'Não Visto', 4, 4);
+
+INSERT INTO CONVERSA VALUES
+(NULL, 'Oi, tudo certo?', '2024-11-26 12:00:00', 'Visto', 5, 5),
+(NULL, 'Oi, tudo ótimo! E você?', '2024-11-26 12:02:00', 'Visto', 5, 5),
+(NULL, 'Estou bem! Estava pensando em viajar nas férias.', '2024-11-26 12:05:00', 'Visto', 5, 5),
+(NULL, 'Legal! Para onde você quer ir?', '2024-11-26 12:07:00', 'Visto', 5, 5),
+(NULL, 'Queria ir para a praia, descansar um pouco.', '2024-11-26 12:10:00', 'Visto', 5, 5),
+(NULL, 'Nossa, eu também estou precisando de umas férias!', '2024-11-26 12:12:00', 'Visto', 5, 5),
+(NULL, 'Eu sei, todo mundo merece um descanso!', '2024-11-26 12:15:00', 'Visto', 5, 5),
+(NULL, 'Com certeza! Vou aproveitar as férias para relaxar.', '2024-11-26 12:17:00', 'Visto', 5, 5),
+(NULL, 'Que ótimo! Depois me conta tudo!', '2024-11-26 12:20:00', 'Visto', 5, 5),
+(NULL, 'Pode deixar, vou adorar te contar!', '2024-11-26 12:22:00', 'Não Enviado', 5, 5);

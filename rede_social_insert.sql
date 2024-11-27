@@ -32,4 +32,15 @@ INSERT INTO POSTAGEM VALUES
 (NULL, 780, 20, 'Café ou chá? A discussão eterna. ☕🍵', '2024-11-11 18:10:33', 4),
 (NULL, 850, 18, 'O final dessa série me deixou sem palavras. Quem já viu? 😱', '2024-11-10 21:05:47', 4),
 (NULL, 620, 10, 'Hoje é um bom dia para começar algo novo. ✨', '2024-11-10 09:35:55', 4);
+INSERT INTO POSTAGEM VALUES
+(NULL, 340, 12, 'Estava com saudade da chuva... até ela cair. Agora quero sol. ☀☔', '2024-11-09 13:45:21', 5),
+(NULL, 1300, 42, 'Nada como uma boa música para melhorar o dia. 🎶', '2024-11-09 16:18:44', 5),
+(NULL, 710, 16, 'Recebi boas notícias hoje. 🌟 Gratidão define.', '2024-11-08 11:30:09', 5),
+(NULL, 880, 20, 'Só queria uma pizza agora. Quem mais? 🍕', '2024-11-07 18:12:33', 5),
+(NULL, 540, 10, 'Aprender algo novo é como desbloquear uma nova parte de você. 🚪✨', '2024-11-06 20:05:45', 5),
+(NULL, 450, 8, 'Quando o relógio marca 11:11, você faz um pedido? 🌠', '2024-11-06 11:48:22', 6),
+(NULL, 1200, 30, 'O céu estrelado sempre me deixa inspirado. 🌌', '2024-11-05 22:11:55', 6),
+(NULL, 630, 12, 'Dia de academia concluído! Sentindo orgulho de mim mesmo. 🏋‍♂', '2024-11-04 10:15:11', 6),
+(NULL, 700, 18, 'Compartilhe sua música favorita comigo. 🎧', '2024-11-04 15:32:48', 6),
+(NULL, 960, 25, 'Aquela sensação de cumprir todas as tarefas do dia. ✅', '2024-11-03 09:40:55', 6);
 

@@ -232,3 +232,16 @@ INSERT INTO CONTATO VALUES
 (NULL, 'Juliana Mendes', NULL),
 (NULL, 'Tiago Gomes', NULL),
 (NULL, 'Mariana Ribeiro', NULL);
+
+INSERT INTO CONVERSA VALUES
+(NULL, 'Olá, tudo bem?', '2024-11-26 08:00:00', 'Visto', 1, 1),
+(NULL, 'Tudo ótimo, e você?', '2024-11-26 08:05:00', 'Visto', 1, 1),
+(NULL, 'Também estou bem, o que tem de novo?', '2024-11-26 08:07:00', 'Visto', 1, 1),
+(NULL, 'Nada demais, só trabalho. E você?', '2024-11-26 08:10:00', 'Visto', 1, 1),
+(NULL, 'Estou na mesma, mas fim de semana chegando!', '2024-11-26 08:12:00', 'Visto', 1, 1),
+(NULL, 'É verdade, já tem planos?', '2024-11-26 08:15:00', 'Visto', 1, 1),
+(NULL, 'Quero descansar um pouco e colocar a série em dia.', '2024-11-26 08:17:00', 'Visto', 1, 1),
+(NULL, 'Boa ideia, eu vou sair para um rolê com a galera.', '2024-11-26 08:20:00', 'Visto', 1, 1),
+(NULL, 'Legal, aproveite! Depois me conta tudo!', '2024-11-26 08:22:00', 'Visto', 1, 1),
+(NULL, 'Claro! Boa diversão para você também!', '2024-11-26 08:25:00', 'Enviado', 1, 1);
+

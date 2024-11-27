@@ -43,4 +43,15 @@ INSERT INTO POSTAGEM VALUES
 (NULL, 630, 12, 'Dia de academia concluído! Sentindo orgulho de mim mesmo. 🏋‍♂', '2024-11-04 10:15:11', 6),
 (NULL, 700, 18, 'Compartilhe sua música favorita comigo. 🎧', '2024-11-04 15:32:48', 6),
 (NULL, 960, 25, 'Aquela sensação de cumprir todas as tarefas do dia. ✅', '2024-11-03 09:40:55', 6);
+INSERT INTO POSTAGEM VALUES
+(NULL, 890, 20, 'Um passo de cada vez, mas nunca pare de andar. 👣', '2024-11-02 17:25:30', 7),
+(NULL, 490, 10, 'Ainda estou sonhando com a sobremesa de ontem. 🍨', '2024-11-01 19:14:28', 7),
+(NULL, 750, 18, 'Você já disse "obrigado" hoje? Gratidão é tudo. 🙏', '2024-11-01 11:42:37', 7),
+(NULL, 410, 9, 'Nada como um bom filme para fechar a noite. 🍿', '2024-10-31 20:21:50', 7),
+(NULL, 580, 15, 'Ainda é cedo para começar com as decorações de Natal? 🎄', '2024-10-30 16:33:15', 7),
+(NULL, 1020, 35, 'Acordei no modo produtivo hoje. Quem mais? ⚡', '2024-10-29 09:10:18', 8),
+(NULL, 930, 30, 'Quantos cafés são aceitáveis por dia? Eu tô no terceiro. ☕☕☕', '2024-10-28 13:20:29', 8),
+(NULL, 670, 12, 'Aquele sentimento de conquista depois de terminar um projeto. 🏆', '2024-10-27 14:50:45', 8),
+(NULL, 520, 9, 'Me recomendem séries para maratonar no fim de semana! 🎥', '2024-10-26 19:33:55', 8),
+(NULL, 600, 14, 'Você também está ansioso para o próximo capítulo da sua vida? 📖✨', '2024-10-25 12:25:40', 8);
 

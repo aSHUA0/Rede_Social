@@ -113,3 +113,15 @@ INSERT INTO NOTIFICACAO VALUES
 (NULL, 'Você tem uma nova mensagem de Maria', '2024-11-18 20:45:56',8),
 (NULL, 'Você recebeu um curtida na sua postagem', '2024-11-17 09:30:25',9),
 (NULL, 'Você recebeu um deslike na sua postagem', '2024-11-16 16:52:10',10);
+
+INSERT INTO GRUPO VALUES
+(NULL, 'Amantes de Café ☕️', 'Um espaço para todos os apaixonados por café! Compartilhe suas receitas, dicas, novos achados de cafeterias ou simplesmente fale sobre sua bebida favorita do dia.', '2024-11-26'),
+(NULL, 'Viajantes do Mundo 🌍✈️', 'Para quem ama viajar! Dicas de destinos, relatos de viagens, fotos inspiradoras e tudo o que você precisa para planejar sua próxima aventura.', '2024-11-26'),
+(NULL, 'Fitness e Bem-estar 💪🧘‍♀️', 'Junte-se a nós para trocar dicas de exercícios, alimentação saudável e motivação. Vamos juntos alcançar nossos objetivos de bem-estar e saúde!', '2024-11-26'),
+(NULL, 'Geek Culture & Tecnologia 🤖🎮', 'Para os fãs de tecnologia, jogos, filmes de ficção científica e tudo o que envolve o universo geek! Discuta sobre gadgets, lançamentos e os melhores games.', '2024-11-26'),
+(NULL, 'Fotografia para Iniciantes 📸', 'Está começando a sua jornada na fotografia? Aqui você encontra dicas, tutoriais, e um lugar para compartilhar suas fotos e aprender com outros fotógrafos iniciantes.', '2024-11-26'),
+(NULL, 'Empreendedores e Startups 🚀', 'Espaço para trocas de ideias, dicas e experiências entre empreendedores e aspirantes a donos de negócios. Juntos podemos crescer e inovar!', '2024-11-26'),
+(NULL, 'Cinefilia – Filmes e Séries 🎬🍿', 'Para quem não vive sem cinema e séries! Compartilhe suas críticas, dicas de filmes e conversas sobre as últimas estreias e clássicos inesquecíveis.', '2024-11-26'),
+(NULL, 'Mundo dos Livros 📚✨', 'Aqui é o lugar para os apaixonados por leitura! Compartilhe suas resenhas, dicas de livros, e participe das discussões sobre suas obras literárias favoritas.', '2024-11-26'),
+(NULL, 'Pets & Companhia 🐾', 'Para todos os donos de pets e amantes de animais! Compartilhe fotos fofas, dicas de cuidados, histórias engraçadas e tudo sobre o mundo dos bichinhos.', '2024-11-26'),
+(NULL, 'Dicas de Culinária 🍳🍰', 'Se você ama cozinhar, esse grupo é para você! Compartilhe suas receitas favoritas, dicas de cozinha e inspire outros a se aventurarem na arte de preparar deliciosos pratos.', '2024-11-26');

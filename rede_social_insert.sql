@@ -87,3 +87,10 @@ INSERT INTO COMENTARIO VALUES
 (NULL, 50, 2, 'Café sempre! Chá só quando tá frio... 😂☕', '2024-11-12 14:40:52',16),
 (NULL, 91, 6, 'Qual série foi? Quero dicas! 😱📺', '2024-11-11 18:30:45',17),
 (NULL, 33, 0, 'Adorei a frase “começar algo novo”. Inspiração para o dia! ✨', '2024-11-10 21:20:33',18);
+INSERT INTO COMENTARIO VALUES
+(NULL, 40, 2, 'A chuva sempre tem esse efeito de nostalgia, né? ☔', '2024-11-10 10:05:21',19),
+(NULL, 89, 4, 'Ouvir música é o melhor remédio para qualquer coisa. 🎶', '2024-11-09 16:45:11',20),
+(NULL, 120, 7, 'Pizza é amor universal. 🍕💕', '2024-11-08 11:50:29',21),
+(NULL, 75, 3, 'Eu também amo observar o céu estrelado, é mágico. 🌌', '2024-11-07 18:40:25',22),
+(NULL, 42, 0, 'Treino concluído! Estamos juntos nessa jornada fitness! 🏋️‍♂️', '2024-11-06 11:10:33',23),
+(NULL, 56, 1, 'Minha música favorita no momento é “Blinding Lights”. E a sua? 🎧', '2024-11-05 22:30:12',24);

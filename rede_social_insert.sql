@@ -54,4 +54,15 @@ INSERT INTO POSTAGEM VALUES
 (NULL, 670, 12, 'Aquele sentimento de conquista depois de terminar um projeto. 🏆', '2024-10-27 14:50:45', 8),
 (NULL, 520, 9, 'Me recomendem séries para maratonar no fim de semana! 🎥', '2024-10-26 19:33:55', 8),
 (NULL, 600, 14, 'Você também está ansioso para o próximo capítulo da sua vida? 📖✨', '2024-10-25 12:25:40', 8);
+INSERT INTO POSTAGEM VALUES
+(NULL, 450, 10, 'Às vezes, tudo o que você precisa é de um tempo offline. 🌳📵', '2024-10-24 17:14:55', 9),
+(NULL, 1400, 50, 'Descobri que a felicidade está nas pequenas coisas. 🌻', '2024-10-23 20:35:10', 9),
+(NULL, 780, 20, 'Hoje o dia começou com uma boa notícia e um sorriso no rosto. 😊', '2024-10-22 10:05:32', 9),
+(NULL, 950, 25, 'Dica do dia: nunca subestime o poder de um elogio sincero. 💬', '2024-10-21 15:18:44', 9),
+(NULL, 580, 10, 'Qual foi a melhor coisa que aconteceu com você hoje? 🌟', '2024-10-20 19:48:50', 9),
+(NULL, 420, 8, 'Estou pronto para encarar a semana com energia renovada. 🔥', '2024-10-19 08:25:21', 10),
+(NULL, 710, 16, 'Nada melhor do que encontrar um velho amigo. 🤝', '2024-10-18 13:15:10', 10),
+(NULL, 1350, 40, 'Seja a mudança que você quer ver no mundo. 🌍✨', '2024-10-17 21:10:55', 10),
+(NULL, 810, 20, 'Mais um dia, mais um aprendizado. Gratidão! 🙌', '2024-10-16 14:50:38', 10),
+(NULL, 920, 18, 'Sonhar é grátis, mas realizar custa dedicação. 💫', '2024-10-15 18:35:44', 10);
 

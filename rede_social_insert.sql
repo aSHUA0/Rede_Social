@@ -130,3 +130,11 @@ INSERT INTO USUARIO_GRUPO VALUES
 (7, 9),(2, 9),(3, 9),(4, 1),(10, 3),
 (3, 6),(2, 4),(8, 7),(6, 6),(7, 4),
 (8, 2),(10, 4),(8, 6),(9, 2),(2, 3);
+
+INSERT INTO MEMBRO VALUES
+(NULL, 'Laura Oliveira', '2024-07-05', 'membro', 1),
+(NULL, 'Marcos Silva', '2024-08-18', 'membro', 1),
+(NULL, 'Rafaela Lima', '2024-09-29', 'membro', 1),
+(NULL, 'Pedro Almeida', '2024-10-10', 'membro', 1),
+(NULL, 'Beatriz Santos', '2024-10-10', 'administrador', 1);
+

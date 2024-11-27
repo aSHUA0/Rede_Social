@@ -221,3 +221,14 @@ INSERT INTO MEMBRO VALUES
 (NULL, 'Beatriz Souza', '2024-02-26', 'membro',4),
 (NULL, 'Juliana Lima', '2024-01-26', 'membro',6);
 
+INSERT INTO CONTATO VALUES
+(NULL, 'João Martins', NULL),
+(NULL, 'Luana Rocha', NULL),
+(NULL, 'Marcos Pereira', NULL),
+(NULL, 'Camila Souza', NULL),
+(NULL, 'Felipe Almeida', NULL),
+(NULL, 'Larissa Costa', NULL),
+(NULL, 'Bruno Fernandes', NULL),
+(NULL, 'Juliana Mendes', NULL),
+(NULL, 'Tiago Gomes', NULL),
+(NULL, 'Mariana Ribeiro', NULL);
